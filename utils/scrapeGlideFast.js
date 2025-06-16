@@ -28,7 +28,7 @@ const fs = require('fs');
 
     // 5. Save to JSON
     fs.writeFileSync(
-      '/Users/nick/Documents/02. Main/nickbournias.com/apps/servicenow-job-scraper/public/company-json/glidefast.json',
+      '/Users/nick/Documents/02. Main/nickbournias.com/apps/servicenow-job-scraper/company-json/glidefast.json',
       JSON.stringify(result, null, 2)
     );
 
