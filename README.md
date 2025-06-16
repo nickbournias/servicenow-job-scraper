@@ -12,7 +12,7 @@ This is a web-based job listing aggregator that scrapes job postings from compan
 
 ## 🚀 How to Use
 
-1. Open `index.html` in a browser.
+1. Open `https://nickbournias.github.io/servicenow-job-scraper` in a browser.
 2. Click a company pill to load its job listings.
 3. The jobs appear at the top of the list and can be toggled on or off.
 4. Each card links directly to the official job posting.
