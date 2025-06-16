@@ -32,18 +32,6 @@ This is a web-based job listing aggregator that scrapes job postings from compan
 * **Cheerio** – For parsing and traversing HTML to extract job data
 * **fs (File System)** – For writing JSON files to disk
 
-## 📦 Setup for Scraping (Optional)
-
-To run the scrapers locally:
-
-```bash
-npm install axios cheerio
-node scrapeSeamless.js
-node scrapeGlideFast.js
-```
-
-This will create or update JSON files with job data that can be loaded by the frontend.
-
 ## 📝 License
 
 This project is for educational and portfolio use only. Use responsibly and respect each website's terms of service when scraping data.
